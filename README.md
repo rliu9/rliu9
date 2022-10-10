@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me:
 
-- 🔭 I ~~’m currently working~~ (May 2022 - July 2022) as Full Stack Engineer Intern at [VisionX](https://visionx.org/) for Django Web Development.
+- 🔭 My name is Rundi Liu and I'm actively seeking opportunities!
 - 👨‍🎓 Education: I’m currently a graduate student at NC State University studying in Computer Science (2021 Aug - 2023 May).
 - 📫 How to reach me: rundi.liu26@visionx.org
 
