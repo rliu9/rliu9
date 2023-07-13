@@ -1,7 +1,9 @@
 ### 👨‍💻 About Me:
 
+https://rundiliu.herokuapp.com/me/
+
 - 👉 My name is **Rundi Liu** and I'm actively seeking full time opportunities!
-- 🔭 Work Experience: Fullstack Software Engineer Intern at [VisionX](https://visionx.org/) (May 2022 - July 2022); Computer Science Grader at NCSU (Jan 2022 - May 2022, Jan 2023 - May 2023)
+- 🔭 Work Experience: Fullstack Software Engineer Intern at [VisionX](https://visionx.org/) (May 2022 - July 2022)
 - 👨‍🎓 Education: Master/Computer Science/NC State University; Bachelor/Computer Science/Iowa State University
 - 📫 How to reach me: rundi.liu26@visionx.org
 
