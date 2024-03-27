@@ -1,6 +1,6 @@
 ### 刘润迪: 
 
-https://rundiliu.herokuapp.com/me/
+https://rliu9.github.io
 
 https://leetcode.cn/u/freakleesin/
 
